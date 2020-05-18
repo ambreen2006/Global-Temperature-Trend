@@ -34,20 +34,26 @@ CRISP-DM process followed is documented below
 
 [1] Herring, S. C., N. Christidis, A. Hoell, M. P. Hoerling, and P. A. Stott, Eds., 2020: Explaining Extreme Events of 2018 from a
 Climate Perspective. Bull. Amer. Meteor. Soc., 101 (1), S1–S128, doi:10.1175/BAMS-ExplainingExtremeEvents2018.1.
+
 [2] Herring, S. C., A. Hoell, M. P. Hoerling, J. P. Kossin, C. J. Schreck III, and P. A. Stott, Eds., 2016: Explaining Extreme Events of
 2015 from a Climate Perspective. Bull. Amer. Meteor. Soc., 97 (12), S1–S145.
+
 [3] GISTEMP
 GISTEMP Team, 2020: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA Goddard Institute for Space Studies. Dataset accessed 20YY-MM-DD at https://data.giss.nasa.gov/gistemp/.
 Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy, and D. Zyss, 2019: Improvements in the GISTEMP uncertainty model. J. Geophys. Res. Atmos., 124, no. 12, 6307–6326, doi:10.1029/2018JD029522.
+
 [4] AGGI
 https://www.esrl.noaa.gov/gmd/aggi/aggi.html)
 Graphic: The Greenhouse Effect https://climate.nasa.gov/climate_resources/188/graphic-the-greenhouse-effect/
 Greenhouse effect https://courses.edx.org/assets/courseware/v1/f40bce9bb2f3570cc65b5303558ab895/asset-v1:SDGAcademyX+CCSI001+3T2019+type@asset+block/Module_1_Reading_5.pdf
+
 [5] TSI
 ftp://ftp.pmodwrc.ch/pub/data/irradiance/composite/
 https://www.pmodwrc.ch/en/home/[6] Interpreting Correlations
+
 [6] Interpreting correlations
 https://towardsdatascience.com/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8
+
 [7] ENSO
 Graphics https://en.wikipedia.org/wiki/El_Ni%C3%B1o#/media/File:ENSO_-_normal.svg
 Graphics https://en.wikipedia.org/wiki/El_Ni%C3%B1o#/media/File:ENSO_-_El_Ni%C3%B1o.svg

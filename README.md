@@ -55,8 +55,11 @@ https://www.pmodwrc.ch/en/home/[6] Interpreting Correlations
 https://towardsdatascience.com/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8
 
 [7] ENSO
+
 Graphics https://en.wikipedia.org/wiki/El_Ni%C3%B1o#/media/File:ENSO_-_normal.svg
+
 Graphics https://en.wikipedia.org/wiki/El_Ni%C3%B1o#/media/File:ENSO_-_El_Ni%C3%B1o.svg
+
 https://www.nationalgeographic.org/encyclopedia/el-nino/
 https://www.nationalgeographic.org/encyclopedia/la-nina/
 https://psl.noaa.gov/cgi-bin/data/climateindices/corr.pl?tstype1=27&custname1=&custtitle1=&tstype2=0&custname2=&custtitle2=&year1=&year2=&itypea=0&y1=&y2=&plotstyle=0&length=&lag=&iall=0&iseas=1&mon1=0&mon2=11&anom=1&climo1_yr1=&climo1_yr2=&climo2_yr1=&climo2_yr2=&Submit=Calculate+Results

@@ -1,8 +1,8 @@
 # Global-Temperature-Trend
 This is analysis for a blog project required in Udacity Data Scientist Nanodegree. It uses several datasets to analyze with respect to the global temperature anomaly.
 
-[Medium Post](https://medium.com/@ambreen2006/when-we-try-to-pick-out-anything-by-itself-we-find-it-hitched-to-everything-else-in-the-universe-4b0cefb8603c)
-<br/>
+[Link to Medium Post](https://medium.com/@ambreen2006/when-we-try-to-pick-out-anything-by-itself-we-find-it-hitched-to-everything-else-in-the-universe-4b0cefb8603c)
+<br/><br/>
 CRISP-DM process followed is documented below
 
 ## Dataset

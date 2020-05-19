@@ -2,14 +2,30 @@
 
 This is analysis for a blog project required in Udacity Data Scientist Nanodegree. It uses several datasets to analyze with respect to the global temperature anomaly.
 
-[Link to Medium Post](https://medium.com/@ambreen2006/when-we-try-to-pick-out-anything-by-itself-we-find-it-hitched-to-everything-else-in-the-universe-4b0cefb8603c)
+Medium: [Link to Medium Post](https://medium.com/@ambreen2006/when-we-try-to-pick-out-anything-by-itself-we-find-it-hitched-to-everything-else-in-the-universe-4b0cefb8603c?source=friends_link&sk=a5e76ea395428633eebd24ec3c696925)
 <br/><br/>
-CRISP-DM process followed is documented below
+Link to Github Repository: [https://github.com/ambreen2006/Global-Temperature-Trend](https://github.com/ambreen2006/Global-Temperature-Trend)
+
 
 ## Dataset
 
 * Various datasets are obtained and sources are documented in the reference section.
 * Each variable used is explained and analyzed in the notebook `Global Temperature Trend.ipynb`
+
+## Project Files
+
+* Analysis file: Global Temperature Trend.ipynb
+* Exported HTML: Global Temperature Trend.html
+* Data files:
+    Resource and reference section provide the links for all the dataset.
+    - Global Temperature: GLB.Ts+dSST.csv
+    - ENSO: enso.csv
+    - AOD: aod_annual.csv
+    - AGGI_Table.csv
+    - TSI composite_42_65_1709.txt
+* Image files for concept explanation
+    - ENSO_-_El_Niño.png
+    - ENSO_Normal.png
 
 ## Data preparation
 

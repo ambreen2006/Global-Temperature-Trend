@@ -21,8 +21,8 @@ Link to Github Repository: [https://github.com/ambreen2006/Global-Temperature-Tr
     - Global Temperature: GLB.Ts+dSST.csv
     - ENSO: enso.csv
     - AOD: aod_annual.csv
-    - AGGI_Table.csv
-    - TSI composite_42_65_1709.txt
+    - AGGI: AGGI_Table.csv
+    - TSI: TSI composite_42_65_1709.txt
 * Image files for concept explanation
     - ENSO_-_El_Niño.png
     - ENSO_Normal.png
